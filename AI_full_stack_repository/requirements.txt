@@ -1,0 +1,13 @@
+streamlit==1.29.0
+langchain==0.1.13
+# unstructured==0.12.3
+tiktoken==0.5.2
+pypdf==4.1.0
+sentence-transformers==2.5.1
+langchain-community
+langchain-chroma
+numpy==1.26.1  
+python-box    
+llama-cpp-python==0.2.76
+# pdfservices-sdk==4.0.0
+watchdog==4.0.1
