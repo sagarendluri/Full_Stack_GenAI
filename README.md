@@ -1,12 +1,12 @@
-Table of Content:
-Install & Import Dependencies
-Load Documents 
-Transformer Documents
-Generate Text Embeddings
-Vector store - Chroma
-Retrieve Answers
-Structure the Output
-
+**Table of Content:
+     Install & Import Dependencies
+     Load Documents 
+     Transformer Documents
+     Generate Text Embeddings
+     Vector store - Chroma
+     Retrieve Answers
+     Structure the Output
+**
  Install & Import Dependencies: please make sure all necessary modules are installed. 
 Loads PDF files available in my(your) directory with pypdf ( as for now, we are uploading only pdf , later will develop the AI app for all)
 Pypdf, is going to read all the files and it break them down into chunks, for to feed the model 
