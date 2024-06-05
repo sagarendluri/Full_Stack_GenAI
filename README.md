@@ -1,11 +1,12 @@
 Table of Content:
-     Install & Import Dependencies
-     Load Documents 
-     Transformer Documents
-     Generate Text Embeddings
-     Vector store - Chroma
-     Retrieve Answers
-     Structure the Output
+
+Install & Import Dependencies
+Load Documents 
+Transformer Documents
+Generate Text Embeddings
+Vector store - Chroma
+Retrieve Answers
+Structure the Output
 
 
 
