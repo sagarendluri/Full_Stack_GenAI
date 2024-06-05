@@ -1,4 +1,4 @@
-**Table of Content:
+Table of Content:
      Install & Import Dependencies
      Load Documents 
      Transformer Documents
@@ -6,8 +6,10 @@
      Vector store - Chroma
      Retrieve Answers
      Structure the Output
-**
- Install & Import Dependencies: please make sure all necessary modules are installed. 
+
+
+
+Install & Import Dependencies: please make sure all necessary modules are installed. 
 Loads PDF files available in my(your) directory with pypdf ( as for now, we are uploading only pdf , later will develop the AI app for all)
 Pypdf, is going to read all the files and it break them down into chunks, for to feed the model 
 convert those chunks(segments) into embeddings(numbers) such as the numerical representation 
